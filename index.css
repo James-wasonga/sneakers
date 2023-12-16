@@ -266,7 +266,7 @@ nav{
     right: 0;
     margin: auto;
     padding: 10px 50px;
-    display: flex;
+    display:none;
 
 
     flex-direction: column;
